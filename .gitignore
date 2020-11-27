@@ -1,0 +1,63 @@
+venv
+.idea
+.vscode
+backend/.idea
+backend/backend/__pycache__
+backend/user/__pycache__
+backend/post/__pycache__
+backend/cheer/__pycache__
+backend/coral/__pycache__
+backend/search_data/__pycache__
+backend/search/__pycache__
+backend/post/migrations
+backend/user/migrations
+backend/cheer/migrations
+backend/coral/migrations
+backend/search_data/migrations
+backend/post/glove.6B.200d.txt
+backend/db.sqlite3
+
+mobile-app/node_modules/**/*
+mobile-app/.expo/*
+mobile-app/npm-debug.*
+mobile-app/*.jks
+mobile-app/*.p8
+mobile-app/*.p12
+mobile-app/*.key
+mobile-app/*.mobileprovision
+mobile-app/*.orig.*
+mobile-app/web-build/
+
+coral/.idea
+coral/__pycache__
+coral/apis/__pycache__
+coral/apis/coral.db
+coral/bot/
+
+# macOS
+mobile-app/.DS_Store
+
+# front end
+
+
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
